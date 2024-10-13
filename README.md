@@ -32,7 +32,7 @@ AvO Flower 3.4 is a project for an autonomous robot with AI control, utilizing T
 
 ## License
 
-* MIT License
+* Apache License 2.0
 
 ## Author
 
