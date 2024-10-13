@@ -42,8 +42,8 @@ AvO Flower 3.4 is a project for an autonomous robot with AI control, utilizing T
 
 ## Contacts
 
-* [AvoTeamOficial@Gmail.com]
-* [[Your Website](https://avofoundation.tiiny.site/)]
+* [[Email](AvoTeamOficial@Gmail.com)]
+* [[Website](https://avofoundation.tiiny.site/)]
 
 ## Note
 
